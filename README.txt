@@ -1,1 +1,1 @@
-# Projeto de calculador em python
+# Projeto de calculadora em python
